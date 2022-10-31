@@ -1,0 +1,2 @@
+BAUDRATE = 250000
+PORT = '/dev/ttyACM0'
